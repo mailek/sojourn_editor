@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelDesigner", "LevelDesigner\LevelDesigner.csproj", "{96B75BB2-54C9-4B6B-AE48-898225FF08A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelDesignerTest", "LevelDesignerTest\LevelDesignerTest.csproj", "{E76B6416-8F3A-4259-8518-8AA982125D2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{07394395-2F4E-41A7-8E3A-1BAEAB917C9A}"
+	ProjectSection(SolutionItems) = preProject
+		LevelDesigner.vsmdi = LevelDesigner.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = LevelDesigner.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		RenderPaneTestDebug|Any CPU = RenderPaneTestDebug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B75BB2-54C9-4B6B-AE48-898225FF08A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B75BB2-54C9-4B6B-AE48-898225FF08A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B75BB2-54C9-4B6B-AE48-898225FF08A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B75BB2-54C9-4B6B-AE48-898225FF08A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B75BB2-54C9-4B6B-AE48-898225FF08A7}.RenderPaneTestDebug|Any CPU.ActiveCfg = RenderPaneTestDebug|Any CPU
+		{96B75BB2-54C9-4B6B-AE48-898225FF08A7}.RenderPaneTestDebug|Any CPU.Build.0 = RenderPaneTestDebug|Any CPU
+		{E76B6416-8F3A-4259-8518-8AA982125D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76B6416-8F3A-4259-8518-8AA982125D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76B6416-8F3A-4259-8518-8AA982125D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76B6416-8F3A-4259-8518-8AA982125D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76B6416-8F3A-4259-8518-8AA982125D2A}.RenderPaneTestDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76B6416-8F3A-4259-8518-8AA982125D2A}.RenderPaneTestDebug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
